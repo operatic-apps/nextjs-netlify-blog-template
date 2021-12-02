@@ -12,7 +12,9 @@
     {
       "keyword": "React"
     },
-    "CMS"
+    {
+      "keyword": "CMS"
+    }
   ],
   "posts_per_page": 5,
   "twitter_account": "@operaticagency",
